@@ -45,3 +45,8 @@ ul {
 .imagembeneficios {
   width: 50%;
 }
+
+main {
+  width: 940px;
+  margin: 0 auto;
+}
